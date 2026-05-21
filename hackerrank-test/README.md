@@ -17,3 +17,4 @@ Carpeta para almacenar las soluciones de la prueba de HackerRank.
 |---------|----------|----------|
 | `q1_count_the_employees.sql` | 1 - Count the Employees | MySQL |
 | `q1_count_the_employees.py`  | 1 - Count the Employees (versión alterna) | Python 3 |
+| `q2_fizzbuzz.py`             | 2 - FizzBuzz | Python 3 |
